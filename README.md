@@ -99,12 +99,12 @@
 - [Compile-Time Polymorphism](https://github.com/marczaku/212-cpp-oop/blob/main/7-compiletime-polymorphism)
 
 ### [213 C++ Advanced](https://github.com/marczaku/213-cpp-advanced) (2w)
-- [Unit Testing](https://github.com/marczaku/213-cpp-advanced)/blob/main/1-unit-testing)
-- [Standard Template Library](https://github.com/marczaku/213-cpp-advanced)/blob/main/2-standard-testing-libray)
-- [Windows Programming](https://github.com/marczaku/213-cpp-advanced)/blob/main/3-windows-programming)
-- [Smart Pointers](https://github.com/marczaku/213-cpp-advanced)/blob/main/4-smart-pointers)
-- [Threading](https://github.com/marczaku/213-cpp-advanced)/blob/main/5-threading)
-- [File I/O](https://github.com/marczaku/213-cpp-advanced)/blob/main/6-file-io)
+- [Unit Testing](https://github.com/marczaku/213-cpp-advanced/blob/main/1-unit-testing)
+- [Standard Template Library](https://github.com/marczaku/213-cpp-advanced/blob/main/2-standard-testing-libray)
+- [Windows Programming](https://github.com/marczaku/213-cpp-advanced/blob/main/3-windows-programming)
+- [Smart Pointers](https://github.com/marczaku/213-cpp-advanced/blob/main/4-smart-pointers)
+- [Threading](https://github.com/marczaku/213-cpp-advanced/blob/main/5-threading)
+- [File I/O](https://github.com/marczaku/213-cpp-advanced/blob/main/6-file-io)
 
 ---
 
