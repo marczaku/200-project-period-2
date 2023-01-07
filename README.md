@@ -65,59 +65,57 @@
 - [Variations](https://github.com/marczaku/208-ai-game-trees/blob/main/5-variations)
 
 ---
-  
-## Chapter 2: Develop, Test and Publish Games for Smartphones & Tablets
 
-### [209: Mobile Game Development](https://github.com/marczaku/209-mobile-game-development) (3w)
-- [Hello Mobile](https://github.com/marczaku/209-mobile-game-developments/blob/main/1-hello-mobile)
-- [Resource Management](https://github.com/marczaku/209-mobile-game-developments/blob/main/2-resource-management)
-- [Google Play Store](https://github.com/marczaku/209-mobile-game-developments/blob/main/3-google-play-store)
-- [Mobile Services](https://github.com/marczaku/209-mobile-game-developments/blob/main/4-services)
-- [Game Backends](https://github.com/marczaku/209-mobile-game-developments/blob/main/5-game-backends)
+## Chapter 2: Design Patterns: Apply Proven Solutions to Common Problems
+
+### [209 Design Patterns](https://github.com/marczaku/209-design-patterns) (2w)
+
+---
+
+## Chapter 3: Develop, Test and Publish Games for Smartphones & Tablets
+
+### [210: Mobile Game Development](https://github.com/marczaku/210-mobile-game-development) (4w)
+- [Hello Mobile](https://github.com/marczaku/210-mobile-game-developments/blob/main/1-hello-mobile)
+- [Resource Management](https://github.com/marczaku/210-mobile-game-developments/blob/main/2-resource-management)
+- [Google Play Store](https://github.com/marczaku/210-mobile-game-developments/blob/main/3-google-play-store)
+- [Mobile Services](https://github.com/marczaku/210-mobile-game-developments/blob/main/4-services)
+- [Game Backends](https://github.com/marczaku/210-mobile-game-developments/blob/main/5-game-backends)
 
 ---
 
 ## Chapter 3: Develop Native Applications using C++
 
-### [210 C++ Basics](https://github.com/marczaku/210-cpp-basics) (0.5w)
-- [Hello World](https://github.com/marczaku/210-cpp-basics/blob/main/1-hello-world)
-- [Basics](https://github.com/marczaku/210-cpp-basics/blob/main/2-basics)
+### [211 C++ Basics](https://github.com/marczaku/211-cpp-basics) (0.5w)
+- [Hello World](https://github.com/marczaku/211-cpp-basics/blob/main/1-hello-world)
+- [Basics](https://github.com/marczaku/211-cpp-basics/blob/main/2-basics)
 
-### [211 C++ Functions, Loops & Arrays](https://github.com/marczaku/211-cpp-functions-loops-arrays) (0.5w)
-- [Static Arrays](https://github.com/marczaku/211-cpp-functions-loops-arrays/blob/main/1-static-arrays)
-- [C-Strings](https://github.com/marczaku/211-cpp-functions-loops-arrays/blob/main/2-c-strings)
-- [Functions & Headers](https://github.com/marczaku/211-cpp-functions-loops-arrays/blob/main/3-functions-and-headers)
+### [212 C++ Functions, Loops & Arrays](https://github.com/marczaku/212-cpp-functions-loops-arrays) (0.5w)
+- [Static Arrays](https://github.com/marczaku/212-cpp-functions-loops-arrays/blob/main/1-static-arrays)
+- [C-Strings](https://github.com/marczaku/212-cpp-functions-loops-arrays/blob/main/2-c-strings)
+- [Functions & Headers](https://github.com/marczaku/212-cpp-functions-loops-arrays/blob/main/3-functions-and-headers)
 
 
-### [212 C++ OOP](https://github.com/marczaku/212-cpp-oop) (2w)
-- [Classes](https://github.com/marczaku/212-cpp-oop/blob/main/1-classes)
-- [Pointers](https://github.com/marczaku/212-cpp-oop/blob/main/2-pointers)
-- [Object Lifetime](https://github.com/marczaku/212-cpp-oop/blob/main/3-object-lifetime)
-- [Exceptions](https://github.com/marczaku/212-cpp-oop/blob/main/4-exceptions)
-- [Copy & Move](https://github.com/marczaku/212-cpp-oop/blob/main/5-copy-and-move)
-- [Runtime Polymorphism](https://github.com/marczaku/212-cpp-oop/blob/main/6-runtime-polymorphism)
-- [Compile-Time Polymorphism](https://github.com/marczaku/212-cpp-oop/blob/main/7-compiletime-polymorphism)
+### [213 C++ OOP](https://github.com/marczaku/213-cpp-oop) (2w)
+- [Classes](https://github.com/marczaku/213-cpp-oop/blob/main/1-classes)
+- [Pointers](https://github.com/marczaku/213-cpp-oop/blob/main/2-pointers)
+- [Object Lifetime](https://github.com/marczaku/213-cpp-oop/blob/main/3-object-lifetime)
+- [Exceptions](https://github.com/marczaku/213-cpp-oop/blob/main/4-exceptions)
+- [Copy & Move](https://github.com/marczaku/213-cpp-oop/blob/main/5-copy-and-move)
+- [Runtime Polymorphism](https://github.com/marczaku/213-cpp-oop/blob/main/6-runtime-polymorphism)
+- [Compile-Time Polymorphism](https://github.com/marczaku/213-cpp-oop/blob/main/7-compiletime-polymorphism)
 
-### [213 C++ Advanced](https://github.com/marczaku/213-cpp-advanced) (2w)
-- [Unit Testing](https://github.com/marczaku/213-cpp-advanced/blob/main/1-unit-testing)
-- [Standard Template Library](https://github.com/marczaku/213-cpp-advanced/blob/main/2-standard-testing-libray)
-- [Windows Programming](https://github.com/marczaku/213-cpp-advanced/blob/main/3-windows-programming)
-- [Smart Pointers](https://github.com/marczaku/213-cpp-advanced/blob/main/4-smart-pointers)
-- [Threading](https://github.com/marczaku/213-cpp-advanced/blob/main/5-threading)
-- [File I/O](https://github.com/marczaku/213-cpp-advanced/blob/main/6-file-io)
-
----
-
-## Chapter 4: Use Unreal for Game Development
-
-### 214 TBA (1w)
-
-### 215 TBA (2w)
-
-### 216 TBA (2w)
+### [214 C++ Advanced](https://github.com/marczaku/214-cpp-advanced) (1.5w)
+- [Unit Testing](https://github.com/marczaku/214-cpp-advanced/blob/main/1-unit-testing)
+- [Standard Template Library](https://github.com/marczaku/214-cpp-advanced/blob/main/2-standard-testing-libray)
+- [Windows Programming](https://github.com/marczaku/214-cpp-advanced/blob/main/3-windows-programming)
+- [Smart Pointers](https://github.com/marczaku/214-cpp-advanced/blob/main/4-smart-pointers)
+- [Threading](https://github.com/marczaku/214-cpp-advanced/blob/main/5-threading)
+- [File I/O](https://github.com/marczaku/214-cpp-advanced/blob/main/6-file-io)
 
 ---
 
-## Chapter 5: Design Patterns: Apply Proven Solutions to Common Problems
+## Chapter 4: Introduction to Unreal Game Development
 
-### [217 Design Patterns](https://github.com/marczaku/217-design-patterns) (2w)
+### 215 TBA (3w)
+- Hello Unreal
+- Blueprint Scripting
