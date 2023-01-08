@@ -85,37 +85,35 @@
 
 ## Chapter 3: Develop Native Applications using C++
 
-### [211 C++ Basics](https://github.com/marczaku/211-cpp-basics) (0.5w)
+### [211 C++ Basics](https://github.com/marczaku/211-cpp-basics) (1w)
 - [Hello World](https://github.com/marczaku/211-cpp-basics/blob/main/1-hello-world)
-- [Basics](https://github.com/marczaku/211-cpp-basics/blob/main/2-basics)
-
-### [212 C++ Functions, Loops & Arrays](https://github.com/marczaku/212-cpp-functions-loops-arrays) (0.5w)
-- [Static Arrays](https://github.com/marczaku/212-cpp-functions-loops-arrays/blob/main/1-static-arrays)
-- [C-Strings](https://github.com/marczaku/212-cpp-functions-loops-arrays/blob/main/2-c-strings)
-- [Functions & Headers](https://github.com/marczaku/212-cpp-functions-loops-arrays/blob/main/3-functions-and-headers)
+- [Core Features](https://github.com/marczaku/211-cpp-basics/blob/main/2-basics)
+- [Static Arrays](https://github.com/marczaku/211-cpp-basics/blob/main/1-static-arrays)
+- [C-Strings](https://github.com/marczaku/211-cpp-basics/blob/main/2-c-strings)
+- [Functions & Headers](https://github.com/marczaku/211-cpp-basics/blob/main/3-functions-and-headers)
 
 
-### [213 C++ OOP](https://github.com/marczaku/213-cpp-oop) (2w)
-- [Classes](https://github.com/marczaku/213-cpp-oop/blob/main/1-classes)
-- [Pointers](https://github.com/marczaku/213-cpp-oop/blob/main/2-pointers)
-- [Object Lifetime](https://github.com/marczaku/213-cpp-oop/blob/main/3-object-lifetime)
-- [Exceptions](https://github.com/marczaku/213-cpp-oop/blob/main/4-exceptions)
-- [Copy & Move](https://github.com/marczaku/213-cpp-oop/blob/main/5-copy-and-move)
-- [Runtime Polymorphism](https://github.com/marczaku/213-cpp-oop/blob/main/6-runtime-polymorphism)
-- [Compile-Time Polymorphism](https://github.com/marczaku/213-cpp-oop/blob/main/7-compiletime-polymorphism)
+### [212 C++ OOP](https://github.com/marczaku/212-cpp-oop) (2w)
+- [Classes](https://github.com/marczaku/212-cpp-oop/blob/main/1-classes)
+- [Pointers](https://github.com/marczaku/212-cpp-oop/blob/main/2-pointers)
+- [Object Lifetime](https://github.com/marczaku/212-cpp-oop/blob/main/3-object-lifetime)
+- [Exceptions](https://github.com/marczaku/212-cpp-oop/blob/main/4-exceptions)
+- [Copy & Move](https://github.com/marczaku/212-cpp-oop/blob/main/5-copy-and-move)
+- [Runtime Polymorphism](https://github.com/marczaku/212-cpp-oop/blob/main/6-runtime-polymorphism)
+- [Compile-Time Polymorphism](https://github.com/marczaku/212-cpp-oop/blob/main/7-compiletime-polymorphism)
 
-### [214 C++ Advanced](https://github.com/marczaku/214-cpp-advanced) (1.5w)
-- [Unit Testing](https://github.com/marczaku/214-cpp-advanced/blob/main/1-unit-testing)
-- [Standard Template Library](https://github.com/marczaku/214-cpp-advanced/blob/main/2-standard-testing-libray)
-- [Windows Programming](https://github.com/marczaku/214-cpp-advanced/blob/main/3-windows-programming)
-- [Smart Pointers](https://github.com/marczaku/214-cpp-advanced/blob/main/4-smart-pointers)
-- [Threading](https://github.com/marczaku/214-cpp-advanced/blob/main/5-threading)
-- [File I/O](https://github.com/marczaku/214-cpp-advanced/blob/main/6-file-io)
+### [213 C++ Advanced](https://github.com/marczaku/213-cpp-advanced) (1.5w)
+- [Unit Testing](https://github.com/marczaku/213-cpp-advanced/blob/main/1-unit-testing)
+- [Standard Template Library](https://github.com/marczaku/213-cpp-advanced/blob/main/2-standard-testing-libray)
+- [Windows Programming](https://github.com/marczaku/213-cpp-advanced/blob/main/3-windows-programming)
+- [Smart Pointers](https://github.com/marczaku/213-cpp-advanced/blob/main/4-smart-pointers)
+- [Threading](https://github.com/marczaku/213-cpp-advanced/blob/main/5-threading)
+- [File I/O](https://github.com/marczaku/213-cpp-advanced/blob/main/6-file-io)
 
 ---
 
 ## Chapter 4: Introduction to Unreal Game Development
 
-### 215 TBA (3w)
+### 214 TBA (3w)
 - Hello Unreal
 - Blueprint Scripting
