@@ -151,6 +151,22 @@ void Awake(){
 - Visualize the Game State on the Screen.
 - e.g. Console ASCII Output
 
+One example:
+```cs
+public class GameView : MonoBehaviour {
+   public Transform Player;
+   public Transform Goal;
+   
+   // This function should only visualize the current state on the screen
+   // It is not supposed to change anything in the State!!!
+   public void UpdateView(State state){
+      Player.position = state.playerPosition;
+      Goal.position = state.goalPosition;
+      Player.color = state.isPlayerBlue ? Color.blue : Color.red;
+   }
+}
+```
+
 ## 4. Develop a Data Model for the Target-State
 - Sometimes, there's exactly one Target State
 
