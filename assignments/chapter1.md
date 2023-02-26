@@ -32,22 +32,32 @@ Please submit a link to the results of your assignment work.
   - The Path of the solution is important.
   - Not just the Final Step.
   - Consider running it Step by Step (WaitForSeconds) or displaying the full Path, if applicable.
-- All above points need to be documented in your Repository's README.md.
-  - What is the problem.
-  - What Algorithm & Data Structure did you choose and why is it suitable?
+- Furthermore, your Repository's README.md should contain documentation:
+  - A summary of the problem you're facing
+  - What Algorithms & Data Structures did you choose and why are they suitable?
   - Would there have been alternatives?
+  - Add screenshots and/or videos
 
 ## Passing Criteria:
-- The student has provided a Pathfinding Problem and was able to visualize and solve it.
-- The documentation demonstrates the decisions that were made for solving the problems in an understandable manner.
+- The student has provided a Pathfinding Problem and was able to visualize and solve it in an Application.
+- The documentation
+  - describes the problem
+  - demonstrates the decisions that were made for solving the problems (e.g. choice of data structures and algorithms)
+  - documents the results with screenshots and/or videos
 - If the approach has failed
   - there is a visible attempt at solving a complex problem 
-  - and the steps are documented understandably
+  - and the steps taken are documented understandably
+  - the problems/bugs are documented professionally
+    - describe the situation
+    - describe the expected outcome
+    - describe the actual outcome
+    - describe possible causes of that issue
 
 ## Excellent Criteria:
 - All from before and furthermore: The Problem is special in its complexity and requires a custom-tailored solution.
+  - e.g. a custom data structure and/or a custom algorithm
 - The documentation supports the decision-making and demonstrates the uniqueness of the problem.
-- This does not require the student to reinvent a pathfinding Algorithm, but the Data-Structure or the problem of the game may require a custom approach for creating the Graph.
+- A working build of the pathfinding application is available to test online or to download under Releases.
 
 # Where to start?
 
